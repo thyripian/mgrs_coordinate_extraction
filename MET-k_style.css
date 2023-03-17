@@ -1,0 +1,67 @@
+body {
+	background-image:linear-gradient(to [DIRECTION], [COLOR 1], [COLOR 2];
+}
+
+h1 { 
+	font-family:Courier,Monospace;
+	text-align:center;
+	font-size:medium;
+	color:[COLOR];
+}
+
+h2 {
+	color:white;
+	font-size:20px;
+}
+
+h3 {
+	font-family:Arial;
+	text-align:center;
+	font-weight:bold;
+	align-content:center;
+}
+
+h4 {
+	font-family:Arial;
+}
+
+h5 {
+	font-family:Arial;
+	text-align:left;
+}
+
+p {
+	font-family:Arial;
+	text-align:center;
+	font-weight:bold;
+}
+
+hr {
+	border-top:3px [LINE STYLE] [COLOR];
+	background-color: [COLOR];
+	height:6px;
+}
+
+#my_title {
+	text-decoration-line:underline;
+	text-decoration-color:white;
+	text-decoration-thickness:bold;
+}
+
+#my_table {
+	color:black;
+	border:1px solid black;
+	background-color:white;
+}
+
+#my_progress {
+	color:black;
+	border:1px solid black;
+	background-color:white;
+}
+
+#my_emails {
+	color:black;
+	border:1px solid black;
+	background-color:white;
+}
